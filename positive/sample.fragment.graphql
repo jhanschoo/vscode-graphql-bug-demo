@@ -1,0 +1,6 @@
+fragment PersonalProfile on User {
+  id
+  bareId
+  bio
+  name
+}
